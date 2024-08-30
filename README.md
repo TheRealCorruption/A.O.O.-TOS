@@ -162,15 +162,15 @@
         <h2>10. Debriefing Session: After-Action Review</h2>
         <ul>
             <li><strong>Overview:</strong> A reflective meeting held after significant missions or events where members review what occurred, discuss successes and challenges,
-
- and identify areas for improvement. This session focuses on learning from experiences and refining strategies.</li>
+    and identify areas for improvement. This session focuses on learning from experiences and refining strategies.</li>
             <li><strong>Objective:</strong> Analyze past activities, improve future performance, and ensure continuous growth and adaptation within the AOO.</li>
         </ul>
 
-        <h1>Founder & Co-Founder</h1>
+        <h1>Founders</h1>
         <ul>
             <li><strong>Founder:</strong> Jaidyn Hopkins (Karma)</li>
             <li><strong>Co-Founder:</strong> Andrew (Arthur Morgen)</li>
+            <li><strong>Co-Founder:</strong> Alex B</li>
         </ul>
 
         <div class="note">
